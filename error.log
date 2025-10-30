@@ -1,0 +1,10 @@
+[29-Apr-2025 17:34:31 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'haircare' in C:\xampp\htdocs\WT\WT\db.php on line 17
+[29-Apr-2025 17:34:31 Europe/Berlin] Database Error: Connection failed: Unknown database 'haircare'
+[29-Apr-2025 17:34:39 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'haircare' in C:\xampp\htdocs\WT\WT\db.php on line 17
+[29-Apr-2025 17:34:39 Europe/Berlin] Database Error: Connection failed: Unknown database 'haircare'
+[30-Apr-2025 07:19:39 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\WT\db.php on line 17
+[30-Apr-2025 07:19:39 Europe/Berlin] Database Error: Connection failed: No connection could be made because the target machine actively refused it
+[30-Apr-2025 07:19:43 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\WT\db.php on line 17
+[30-Apr-2025 07:19:43 Europe/Berlin] Database Error: Connection failed: No connection could be made because the target machine actively refused it
+[30-Apr-2025 07:19:47 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\WT\db.php on line 17
+[30-Apr-2025 07:19:47 Europe/Berlin] Database Error: Connection failed: No connection could be made because the target machine actively refused it
